@@ -8,3 +8,51 @@ paragraph yellow: #ECB12F
 links blue: #2E71A6
 footer links grey: #454245
 */
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* HEAD */
+head {
+
+}
+
+title {
+    color:#FFFFFF
+}
+
+/*BODY */
+
+nav {
+    background-color: #540B51;
+}
+
+#menu-topo > li {
+    display:flex
+    color: #FFFFFF
+
+}
+
+    
+
+
+/* HEADER */
+header {
+    background-image: url("./images/hero-product-ui.png");
+    background-color: #540B51;
+    display: flex;
+    font-size: 2rem;
+    text-align: left;
+}
+
+h1 {
+    color:#FFFFFF
+}
+
+p {
+    color:#ECB12F
+}
